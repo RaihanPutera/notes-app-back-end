@@ -19,3 +19,5 @@ console.log(`Server berjalan pada ${server.info.uri}`);
 };
 
 init();
+// Server SSH: 
+// ssh -i "notes-api-webserver.pem" ubuntu@ec2-3-0-180-48.ap-southeast-1.compute.amazonaws.com
